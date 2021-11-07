@@ -8,7 +8,7 @@ def fizzbuzz(num)
         puts "buzz"
     else 
             puts num
-            
+    return num
     end
 
 end
